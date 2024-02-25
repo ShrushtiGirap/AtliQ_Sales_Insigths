@@ -4,7 +4,6 @@ This is a project I replicated from Codebasics PowerBi Youtube playlist. You can
 
 [Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
 
-[Live Report Link](https://www.novypro.com/project/atliq-sales-insights-)
 
 ## Problem statement
 
@@ -54,4 +53,4 @@ and success criteria  of our project.
 #### Interactive dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATA
+<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATA">
