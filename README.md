@@ -53,4 +53,4 @@ and success criteria  of our project.
 #### Interactive dashboard
 
 ---
-<img src="[https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATA](https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/raw/main/DATASET/GIF.gif)" width="550" class="center">
+<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/raw/main/DATASET/GIF.gif" width="550" class="center">
